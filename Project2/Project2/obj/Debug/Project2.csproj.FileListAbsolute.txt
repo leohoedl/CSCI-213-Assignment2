@@ -1,0 +1,11 @@
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project2\Project2\obj\Debug\Project2.Form2.resources

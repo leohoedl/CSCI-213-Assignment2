@@ -1,0 +1,20 @@
+C:\Users\leeee\Desktop\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\leeee\Desktop\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\leeee\Desktop\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\leeee\Desktop\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\leeee\Desktop\Desktop\School\College\4th Year\Semester 1\Modern Software Development\HW\Assignment2\Project1\Project1\obj\Debug\Project1.pdb
